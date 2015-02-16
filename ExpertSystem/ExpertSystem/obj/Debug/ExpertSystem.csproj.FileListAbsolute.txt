@@ -1,0 +1,6 @@
+D:\ExpertSystemPrototype\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+D:\ExpertSystemPrototype\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe
+D:\ExpertSystemPrototype\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.pdb
+D:\ExpertSystemPrototype\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csprojResolveAssemblyReference.cache
+D:\ExpertSystemPrototype\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.exe
+D:\ExpertSystemPrototype\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.pdb
